@@ -14,16 +14,17 @@ Developers
 <br><br>
 
 ## Terms of Use
-Kullanıcılar oyun sırasında herhangi bir şekilde küfür, hakaret, ayrımcılık veya herhangi bir toplum tarafından kabul edilemez davranışlar sergilememelidir.
-Kullanıcılar, oyunun amaçlarına yönelik olmayan ve diğer kullanıcıları rahatsız eden çizim, yazı veya işaretler yapmamalıdır.
-Kullanıcılar, oyun sırasında diğer kullanıcıların işaretlerini veya çizimlerini kasıtlı olarak yok etmemelidir.
-Kullanıcılar, oyunun işleyişini olumsuz yönde etkileyecek davranışlar sergilememelidir. Bu davranışlar arasında bot kullanımı, hile veya diğer oyuncuların saldırısı yer alabilir.
-Kullanıcılar, oyunun güvenliği ve stabilitesini sağlamak amacıyla herhangi bir teknik müdahalede bulunmamalıdır.
-Kullanıcılar, diğer kullanıcılara saldırgan veya zarar verici davranışlarda bulunmamalıdır. Bu, özellikle diğer kullanıcıların sanal mülklerini çalmak veya hacklemek gibi davranışları içerebilir.
-Kullanıcılar, oyun içinde yasadışı veya etik olmayan faaliyetlerde bulunmamalıdır. Bu, özellikle dolandırıcılık, kara para aklama veya terörizm gibi faaliyetleri içerebilir.
-Kullanıcılar, oyunun amaçlarına aykırı olarak, ticari amaçlarla veya reklam yapmak amacıyla oyunu kullanmamalıdır.
-Kullanıcılar, oyunu kullanırken diğer kullanıcıların gizliliğine saygı göstermelidir.
-Kullanıcılar, oyunun şartlarına uymayan veya bu kuralları ihlal eden kullanıcılar hakkında uygulanacak yaptırımları kabul etmelidir.
+Kullanıcılar oyun sırasında herhangi bir şekilde küfür, hakaret, ayrımcılık veya herhangi bir toplum tarafından kabul edilemez davranışlar sergilememelidir.<br>
+Kullanıcılar, oyunun amaçlarına yönelik olmayan ve diğer kullanıcıları rahatsız eden çizim, yazı veya işaretler yapmamalıdır.<br>
+Kullanıcılar, oyun sırasında diğer kullanıcıların işaretlerini veya çizimlerini kasıtlı olarak yok etmemelidir.<br>
+Kullanıcılar, oyunun işleyişini olumsuz yönde etkileyecek davranışlar sergilememelidir. Bu davranışlar arasında bot kullanımı, 
+hile veya diğer oyuncuların saldırısı yer alabilir.<br>
+Kullanıcılar, oyunun güvenliği ve stabilitesini sağlamak amacıyla herhangi bir teknik müdahalede bulunmamalıdır.<br>
+Kullanıcılar, diğer kullanıcılara saldırgan veya zarar verici davranışlarda bulunmamalıdır. Bu, özellikle diğer kullanıcıların sanal mülklerini çalmak veya hacklemek gibi davranışları içerebilir.<br>
+Kullanıcılar, oyun içinde yasadışı veya etik olmayan faaliyetlerde bulunmamalıdır. Bu, özellikle dolandırıcılık, kara para aklama veya terörizm gibi faaliyetleri içerebilir.<br>
+Kullanıcılar, oyunun amaçlarına aykırı olarak, ticari amaçlarla veya reklam yapmak amacıyla oyunu kullanmamalıdır.<br>
+Kullanıcılar, oyunu kullanırken diğer kullanıcıların gizliliğine saygı göstermelidir.<br>
+Kullanıcılar, oyunun şartlarına uymayan veya bu kuralları ihlal eden kullanıcılar hakkında uygulanacak yaptırımları kabul etmelidir.<br>
 ```
 Developed by ReppOS
 ```
