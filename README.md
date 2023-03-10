@@ -1,6 +1,6 @@
 # r/Place Clone App 
 <br>
-# Developers
+Developers
 <table>
    <tr>
       <td align="center"><a href="https://github.com/ziya-m">
@@ -14,12 +14,16 @@
 <br><br>
 
 ## Terms of Use
-<a>- You have the permission to shoot and share videos, but you have to mention us and our server in the video.</a><br>
-<a>- You cannot use our branding anywhere on your site & claim it as your own.</a><br>
-<a>- You have the permission to share in writing, but you have to mention us, our server, in the article.</a><br>
-<a>- You can't speak in a "we did it" way.</a><br>
-<a>- You cannot sell this</a><br>
-<a>- Don't touch this part on footer;</a><br>
+Kullanıcılar oyun sırasında herhangi bir şekilde küfür, hakaret, ayrımcılık veya herhangi bir toplum tarafından kabul edilemez davranışlar sergilememelidir.
+Kullanıcılar, oyunun amaçlarına yönelik olmayan ve diğer kullanıcıları rahatsız eden çizim, yazı veya işaretler yapmamalıdır.
+Kullanıcılar, oyun sırasında diğer kullanıcıların işaretlerini veya çizimlerini kasıtlı olarak yok etmemelidir.
+Kullanıcılar, oyunun işleyişini olumsuz yönde etkileyecek davranışlar sergilememelidir. Bu davranışlar arasında bot kullanımı, hile veya diğer oyuncuların saldırısı yer alabilir.
+Kullanıcılar, oyunun güvenliği ve stabilitesini sağlamak amacıyla herhangi bir teknik müdahalede bulunmamalıdır.
+Kullanıcılar, diğer kullanıcılara saldırgan veya zarar verici davranışlarda bulunmamalıdır. Bu, özellikle diğer kullanıcıların sanal mülklerini çalmak veya hacklemek gibi davranışları içerebilir.
+Kullanıcılar, oyun içinde yasadışı veya etik olmayan faaliyetlerde bulunmamalıdır. Bu, özellikle dolandırıcılık, kara para aklama veya terörizm gibi faaliyetleri içerebilir.
+Kullanıcılar, oyunun amaçlarına aykırı olarak, ticari amaçlarla veya reklam yapmak amacıyla oyunu kullanmamalıdır.
+Kullanıcılar, oyunu kullanırken diğer kullanıcıların gizliliğine saygı göstermelidir.
+Kullanıcılar, oyunun şartlarına uymayan veya bu kuralları ihlal eden kullanıcılar hakkında uygulanacak yaptırımları kabul etmelidir.
 ```
 Developed by ReppOS
 ```
