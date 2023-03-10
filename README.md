@@ -1,6 +1,6 @@
 # r/Place Clone App 
 <br>
-## Developers
+# Developers
 <table>
    <tr>
       <td align="center"><a href="https://github.com/ziya-m">
